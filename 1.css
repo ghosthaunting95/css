@@ -4,4 +4,10 @@ p {
   font-weight: 200;
   font-size: 20px;
   font-style: italic;
+  /* border-width: 10px; */
+  /* border-style: solid; */
+  /* padding: 50px; */
+  /* margin: 50px; */
+  /* border-color: red; */
+  border: 5px solid red;
 }
